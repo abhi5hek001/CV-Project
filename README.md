@@ -13,6 +13,8 @@ divided by SSD distance of the second closest feature match). [6 Marks]
 Along with the code, you should submit two outputs, keypoint detection and feature matching as
 given below.
 
+./output.webm
+
 ## Step 1: Install OpenCV & OpenCV Contrib from Source
 ### Install necessary updates in your ubuntu machine
 
