@@ -13,10 +13,7 @@ divided by SSD distance of the second closest feature match). [6 Marks]
 Along with the code, you should submit two outputs, keypoint detection and feature matching as
 given below.
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=IvepC4wtGQs">
-  Your browser does not support the video tag.
-</video>
+[Demonstration of output](https://github.com/user-attachments/assets/2f731f08-e987-40da-911d-9c12db11e83b)
 
 ## Step 1: Install OpenCV & OpenCV Contrib from Source
 ### Install necessary updates in your ubuntu machine
